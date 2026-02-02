@@ -1,0 +1,22 @@
+{
+  "emails": [
+    "support@example.com",
+    "admin.sales@company.co.uk"
+  ],
+  "urls": [
+    "https://www.example.com",
+    "https://sub.example.org/page?id=12"
+  ],
+  "phoneNumbers": [
+    "123-456-7890",
+    "123.456.7890"
+  ],
+  "creditCards": [
+    "1234-5678-9012-3456",
+    "1234 5678 9012 3456"
+  ],
+  "times": [
+    "14:30",
+    "2:45"
+  ]
+}

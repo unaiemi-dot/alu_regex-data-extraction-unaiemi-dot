@@ -4,7 +4,7 @@
 
 \*\*Repository:\*\* alu\_regex-data-extraction-unaiemi-dot  
 
-\*\*Author:\*\* unaiemi-dot  
+\*\*Author:\*\* Ulfat Naiemi  
 
 
 
@@ -30,7 +30,7 @@ It processes raw text data and extracts structured information, including:
 
 
 
-The program also demonstrates \*\*security awareness\*\*, ignoring malformed or malicious inputs.
+The program demonstrates \*\*security awareness\*\*, ignoring malformed or malicious inputs.
 
 
 
@@ -47,20 +47,6 @@ The program reads data from `sample\_input.txt`.
 
 
 \*\*Example of realistic input:\*\*
-
-
-
-\## Security Considerations
-
-
-
-\- The program ignores malformed or malicious inputs, such as consecutive dots in emails (`fake@email..com`) or invalid URL schemes (`javascript:alert(1)`).
-
-\- Credit card numbers are \*\*masked\*\* to prevent exposure of sensitive data.
-
-\- This approach demonstrates awareness that not all input can be trusted, and ensures extraction only captures \*\*valid and safe data\*\*.
-
-
 
 
 
